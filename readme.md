@@ -8,4 +8,5 @@ for installation:-
 Step 1. Install Python 3.x in your device
 <br>
 Step 2. pip install -r requirements.txt
+<br>
 Step 3. python main.py
